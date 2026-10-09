@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ClementCaporal
 - 👀 I’m interested in bioimage analysis, education, VR, and games.
-- 🌱 I’m currently learning as a PostDoc with Roberto Toro at Pasteur Institute, Paris
+- 🌱 I’m currently learning as a PostDoc with Ignacio Arganda-Carreras at EHU, Spain
